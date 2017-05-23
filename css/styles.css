@@ -8,6 +8,7 @@ body {
 
 /* line 19, /Users/mmurphy15/Desktop/p3-stand-alone-portfolio/css/styles.scss */
 figure {
+  text-align: center;
   background: green;
   width: 300px;
   padding: 1em; }
