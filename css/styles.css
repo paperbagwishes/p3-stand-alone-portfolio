@@ -1,3 +1,19 @@
-body{background:red}
+/* Styling */
+@imports "normalize";
+@imports "lightgallery";
+@imports "lg-transitions";
+/* line 12, /Users/mmurphy15/Desktop/p3-stand-alone-portfolio/css/styles.scss */
+body {
+  background: yellow; }
+
+/* line 19, /Users/mmurphy15/Desktop/p3-stand-alone-portfolio/css/styles.scss */
+figure {
+  background: green;
+  width: 300px;
+  padding: 1em; }
+
+/* line 26, /Users/mmurphy15/Desktop/p3-stand-alone-portfolio/css/styles.scss */
+figure img {
+  box-shadow: 2px 2px gray; }
 
 /*# sourceMappingURL=styles.css.map */

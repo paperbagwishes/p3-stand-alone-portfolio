@@ -1,4 +1,29 @@
 /* Styling */
+// imports
+@imports "normalize";
+@imports "lightgallery";
+@imports "lg-transitions";
+
+
+
+
+
+
 body {
-    background: red;
+    background: yellow;
+}
+
+
+//portofolio items
+
+figure {
+    
+background: green;
+    width: 300px;
+    padding:1em ;
+}
+
+figure img {
+    box-shadow: 2px 2px gray ;
+    
 }
